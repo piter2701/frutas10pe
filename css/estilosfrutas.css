@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+#paginainicio
+{background:#003}
+
+#tituolo
+{background:#66F; color: #CFF}
+
+#pienombre
+{background: #9C0; color:#900}
+
+#introduccion
+{ color:#9C9; size:"50"; text-align:justify; background:#630; width:98%; margin:1%}
+
+#TITULOFRUTAS
+
+{background:#FF0; color:#000000}
+
+#introduccionfru
+{ color:#FFF; size:"50"; text-align:justify; background: #09C; width:96.5%}
+
+#colordiv
+{ background:#F60}
+
+#coloresdiv2
+{ background:#999}
